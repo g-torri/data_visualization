@@ -1,2716 +1,2521 @@
 [
  [ {
- "date": "2004-01",
+ "date": "01",
 "number": " 57",
 "": "beach" 
 },
 {
- "date": "2004-02",
+ "date": "02",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2004-03",
+ "date": "03",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2004-04",
+ "date": "04",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2004-05",
+ "date": "05",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2004-06",
+ "date": "06",
 "number": " 72",
 "": "beach" 
 },
 {
- "date": "2004-07",
+ "date": "07",
 "number": " 75",
 "": "beach" 
 },
 {
- "date": "2004-08",
+ "date": "08",
 "number": " 70",
 "": "beach" 
 },
 {
- "date": "2004-09",
+ "date": "09",
 "number": " 56",
 "": "beach" 
 },
 {
- "date": "2004-10",
+ "date": "10",
 "number": " 44",
 "": "beach" 
 },
 {
- "date": "2004-11",
+ "date": "11",
 "number": " 42",
 "": "beach" 
 },
 {
- "date": "2004-12",
+ "date": "12",
 "number": " 45",
 "": "beach" 
 } ],
 [ {
- "date": "2004-01",
+ "date": "01",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2004-02",
+ "date": "02",
 "number": " 42",
 "": "ice" 
 },
 {
- "date": "2004-03",
+ "date": "03",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2004-04",
+ "date": "04",
 "number": " 31",
 "": "ice" 
 },
 {
- "date": "2004-05",
+ "date": "05",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2004-06",
+ "date": "06",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2004-07",
+ "date": "07",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2004-08",
+ "date": "08",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2004-09",
+ "date": "09",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2004-10",
+ "date": "10",
 "number": " 34",
 "": "ice" 
 },
 {
- "date": "2004-11",
+ "date": "11",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2004-12",
+ "date": "12",
 "number": " 47",
 "": "ice" 
 } ],
 [ {
- "date": "2004-01",
+ "date": "01",
 "number": " 43",
 "": "snow" 
 },
 {
- "date": "2004-02",
+ "date": "02",
 "number": " 29",
 "": "snow" 
 },
 {
- "date": "2004-03",
+ "date": "03",
 "number": " 19",
 "": "snow" 
 },
 {
- "date": "2004-04",
+ "date": "04",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2004-05",
+ "date": "05",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2004-06",
+ "date": "06",
 "number": " 11",
 "": "snow" 
 },
 {
- "date": "2004-07",
+ "date": "07",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2004-08",
+ "date": "08",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2004-09",
+ "date": "09",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2004-10",
+ "date": "10",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2004-11",
+ "date": "11",
 "number": " 35",
 "": "snow" 
 },
 {
- "date": "2004-12",
+ "date": "12",
 "number": " 53",
 "": "snow" 
 } ],
 [ {
- "date": "2004-12",
-"number": " 45",
-"": "beach" 
-},
-{
- "date": "2005-01",
+ "date": "01",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2005-02",
+ "date": "02",
 "number": " 57",
 "": "beach" 
 },
 {
- "date": "2005-03",
+ "date": "03",
 "number": " 61",
 "": "beach" 
 },
 {
- "date": "2005-04",
+ "date": "04",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2005-05",
+ "date": "05",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2005-06",
+ "date": "06",
 "number": " 78",
 "": "beach" 
 },
 {
- "date": "2005-07",
+ "date": "07",
 "number": " 78",
 "": "beach" 
 },
 {
- "date": "2005-08",
+ "date": "08",
 "number": " 71",
 "": "beach" 
 },
 {
- "date": "2005-09",
+ "date": "09",
 "number": " 51",
 "": "beach" 
 },
 {
- "date": "2005-10",
+ "date": "10",
 "number": " 48",
 "": "beach" 
 },
 {
- "date": "2005-11",
+ "date": "11",
 "number": " 48",
 "": "beach" 
 },
 {
- "date": "2005-12",
+ "date": "12",
 "number": " 44",
 "": "beach" 
 } ],
 [ {
- "date": "2004-12",
+ "date": "01",
 "number": " 47",
 "": "ice" 
 },
 {
- "date": "2005-01",
-"number": " 47",
-"": "ice" 
-},
-{
- "date": "2005-02",
+ "date": "02",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2005-03",
+ "date": "03",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2005-04",
+ "date": "04",
 "number": " 34",
 "": "ice" 
 },
 {
- "date": "2005-05",
+ "date": "05",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2005-06",
+ "date": "06",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2005-07",
+ "date": "07",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2005-08",
+ "date": "08",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2005-09",
+ "date": "09",
 "number": " 33",
 "": "ice" 
 },
 {
- "date": "2005-10",
+ "date": "10",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2005-11",
+ "date": "11",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2005-12",
+ "date": "12",
 "number": " 51",
 "": "ice" 
 } ],
 [ {
- "date": "2004-12",
-"number": " 53",
-"": "snow" 
-},
-{
- "date": "2005-01",
+ "date": "01",
 "number": " 51",
 "": "snow" 
 },
 {
- "date": "2005-02",
+ "date": "02",
 "number": " 30",
 "": "snow" 
 },
 {
- "date": "2005-03",
+ "date": "03",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2005-04",
+ "date": "04",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2005-05",
+ "date": "05",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2005-06",
+ "date": "06",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2005-07",
+ "date": "07",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2005-08",
+ "date": "08",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2005-09",
+ "date": "09",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2005-10",
+ "date": "10",
 "number": " 23",
 "": "snow" 
 },
 {
- "date": "2005-11",
+ "date": "11",
 "number": " 35",
 "": "snow" 
 },
 {
- "date": "2005-12",
+ "date": "12",
 "number": " 59",
 "": "snow" 
 } ],
 [ {
- "date": "2005-12",
-"number": " 44",
-"": "beach" 
-},
-{
- "date": "2006-01",
+ "date": "01",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2006-02",
+ "date": "02",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2006-03",
+ "date": "03",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2006-04",
+ "date": "04",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2006-05",
+ "date": "05",
 "number": " 62",
 "": "beach" 
 },
 {
- "date": "2006-06",
+ "date": "06",
 "number": " 74",
 "": "beach" 
 },
 {
- "date": "2006-07",
+ "date": "07",
 "number": " 76",
 "": "beach" 
 },
 {
- "date": "2006-08",
+ "date": "08",
 "number": " 66",
 "": "beach" 
 },
 {
- "date": "2006-09",
+ "date": "09",
 "number": " 50",
 "": "beach" 
 },
 {
- "date": "2006-10",
+ "date": "10",
 "number": " 44",
 "": "beach" 
 },
 {
- "date": "2006-11",
+ "date": "11",
 "number": " 42",
 "": "beach" 
 },
 {
- "date": "2006-12",
+ "date": "12",
 "number": " 42",
 "": "beach" 
 } ],
 [ {
- "date": "2005-12",
-"number": " 51",
-"": "ice" 
-},
-{
- "date": "2006-01",
+ "date": "01",
 "number": " 47",
 "": "ice" 
 },
 {
- "date": "2006-02",
+ "date": "02",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2006-03",
+ "date": "03",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2006-04",
+ "date": "04",
 "number": " 40",
 "": "ice" 
 },
 {
- "date": "2006-05",
+ "date": "05",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2006-06",
+ "date": "06",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2006-07",
+ "date": "07",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2006-08",
+ "date": "08",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2006-09",
+ "date": "09",
 "number": " 35",
 "": "ice" 
 },
 {
- "date": "2006-10",
+ "date": "10",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2006-11",
+ "date": "11",
 "number": " 42",
 "": "ice" 
 },
 {
- "date": "2006-12",
+ "date": "12",
 "number": " 52",
 "": "ice" 
 } ],
 [ {
- "date": "2005-12",
-"number": " 59",
-"": "snow" 
-},
-{
- "date": "2006-01",
+ "date": "01",
 "number": " 31",
 "": "snow" 
 },
 {
- "date": "2006-02",
+ "date": "02",
 "number": " 32",
 "": "snow" 
 },
 {
- "date": "2006-03",
+ "date": "03",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2006-04",
+ "date": "04",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2006-05",
+ "date": "05",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2006-06",
+ "date": "06",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2006-07",
+ "date": "07",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2006-08",
+ "date": "08",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2006-09",
+ "date": "09",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2006-10",
+ "date": "10",
 "number": " 27",
 "": "snow" 
 },
 {
- "date": "2006-11",
+ "date": "11",
 "number": " 35",
 "": "snow" 
 },
 {
- "date": "2006-12",
+ "date": "12",
 "number": " 52",
 "": "snow" 
 } ],
 [ {
- "date": "2006-12",
-"number": " 42",
-"": "beach" 
-},
-{
- "date": "2007-01",
+ "date": "01",
 "number": " 53",
 "": "beach" 
 },
 {
- "date": "2007-02",
+ "date": "02",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2007-03",
+ "date": "03",
 "number": " 60",
 "": "beach" 
 },
 {
- "date": "2007-04",
+ "date": "04",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2007-05",
+ "date": "05",
 "number": " 63",
 "": "beach" 
 },
 {
- "date": "2007-06",
+ "date": "06",
 "number": " 72",
 "": "beach" 
 },
 {
- "date": "2007-07",
+ "date": "07",
 "number": " 76",
 "": "beach" 
 },
 {
- "date": "2007-08",
+ "date": "08",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2007-09",
+ "date": "09",
 "number": " 49",
 "": "beach" 
 },
 {
- "date": "2007-10",
+ "date": "10",
 "number": " 44",
 "": "beach" 
 },
 {
- "date": "2007-11",
+ "date": "11",
 "number": " 40",
 "": "beach" 
 },
 {
- "date": "2007-12",
+ "date": "12",
 "number": " 42",
 "": "beach" 
 } ],
 [ {
- "date": "2006-12",
-"number": " 52",
-"": "ice" 
-},
-{
- "date": "2007-01",
+ "date": "01",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2007-02",
+ "date": "02",
 "number": " 47",
 "": "ice" 
 },
 {
- "date": "2007-03",
+ "date": "03",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2007-04",
+ "date": "04",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2007-05",
+ "date": "05",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2007-06",
+ "date": "06",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2007-07",
+ "date": "07",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2007-08",
+ "date": "08",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2007-09",
+ "date": "09",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2007-10",
+ "date": "10",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2007-11",
+ "date": "11",
 "number": " 40",
 "": "ice" 
 },
 {
- "date": "2007-12",
+ "date": "12",
 "number": " 53",
 "": "ice" 
 } ],
 [ {
- "date": "2006-12",
-"number": " 52",
-"": "snow" 
-},
-{
- "date": "2007-01",
+ "date": "01",
 "number": " 40",
 "": "snow" 
 },
 {
- "date": "2007-02",
+ "date": "02",
 "number": " 45",
 "": "snow" 
 },
 {
- "date": "2007-03",
+ "date": "03",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2007-04",
+ "date": "04",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2007-05",
+ "date": "05",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2007-06",
+ "date": "06",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2007-07",
+ "date": "07",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2007-08",
+ "date": "08",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2007-09",
+ "date": "09",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2007-10",
+ "date": "10",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2007-11",
+ "date": "11",
 "number": " 30",
 "": "snow" 
 },
 {
- "date": "2007-12",
+ "date": "12",
 "number": " 61",
 "": "snow" 
 } ],
 [ {
- "date": "2007-12",
-"number": " 42",
-"": "beach" 
-},
-{
- "date": "2008-01",
+ "date": "01",
 "number": " 52",
 "": "beach" 
 },
 {
- "date": "2008-02",
+ "date": "02",
 "number": " 54",
 "": "beach" 
 },
 {
- "date": "2008-03",
+ "date": "03",
 "number": " 60",
 "": "beach" 
 },
 {
- "date": "2008-04",
+ "date": "04",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2008-05",
+ "date": "05",
 "number": " 63",
 "": "beach" 
 },
 {
- "date": "2008-06",
+ "date": "06",
 "number": " 72",
 "": "beach" 
 },
 {
- "date": "2008-07",
+ "date": "07",
 "number": " 74",
 "": "beach" 
 },
 {
- "date": "2008-08",
+ "date": "08",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2008-09",
+ "date": "09",
 "number": " 49",
 "": "beach" 
 },
 {
- "date": "2008-10",
+ "date": "10",
 "number": " 43",
 "": "beach" 
 },
 {
- "date": "2008-11",
+ "date": "11",
 "number": " 40",
 "": "beach" 
 },
 {
- "date": "2008-12",
+ "date": "12",
 "number": " 41",
 "": "beach" 
 } ],
 [ {
- "date": "2007-12",
-"number": " 53",
-"": "ice" 
-},
-{
- "date": "2008-01",
+ "date": "01",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2008-02",
+ "date": "02",
 "number": " 43",
 "": "ice" 
 },
 {
- "date": "2008-03",
+ "date": "03",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2008-04",
+ "date": "04",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2008-05",
+ "date": "05",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2008-06",
+ "date": "06",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2008-07",
+ "date": "07",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2008-08",
+ "date": "08",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2008-09",
+ "date": "09",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2008-10",
+ "date": "10",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2008-11",
+ "date": "11",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2008-12",
+ "date": "12",
 "number": " 53",
 "": "ice" 
 } ],
 [ {
- "date": "2007-12",
-"number": " 61",
-"": "snow" 
-},
-{
- "date": "2008-01",
+ "date": "01",
 "number": " 40",
 "": "snow" 
 },
 {
- "date": "2008-02",
+ "date": "02",
 "number": " 34",
 "": "snow" 
 },
 {
- "date": "2008-03",
+ "date": "03",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2008-04",
+ "date": "04",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2008-05",
+ "date": "05",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2008-06",
+ "date": "06",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2008-07",
+ "date": "07",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2008-08",
+ "date": "08",
 "number": " 13",
 "": "snow" 
 },
 {
- "date": "2008-09",
+ "date": "09",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2008-10",
+ "date": "10",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2008-11",
+ "date": "11",
 "number": " 32",
 "": "snow" 
 },
 {
- "date": "2008-12",
+ "date": "12",
 "number": " 66",
 "": "snow" 
 } ],
 [ {
- "date": "2008-12",
-"number": " 41",
-"": "beach" 
-},
-{
- "date": "2009-01",
+ "date": "01",
 "number": " 52",
 "": "beach" 
 },
 {
- "date": "2009-02",
+ "date": "02",
 "number": " 53",
 "": "beach" 
 },
 {
- "date": "2009-03",
+ "date": "03",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2009-04",
+ "date": "04",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2009-05",
+ "date": "05",
 "number": " 62",
 "": "beach" 
 },
 {
- "date": "2009-06",
+ "date": "06",
 "number": " 70",
 "": "beach" 
 },
 {
- "date": "2009-07",
+ "date": "07",
 "number": " 77",
 "": "beach" 
 },
 {
- "date": "2009-08",
+ "date": "08",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2009-09",
+ "date": "09",
 "number": " 48",
 "": "beach" 
 },
 {
- "date": "2009-10",
+ "date": "10",
 "number": " 42",
 "": "beach" 
 },
 {
- "date": "2009-11",
+ "date": "11",
 "number": " 40",
 "": "beach" 
 },
 {
- "date": "2009-12",
+ "date": "12",
 "number": " 42",
 "": "beach" 
 } ],
 [ {
- "date": "2008-12",
-"number": " 53",
-"": "ice" 
-},
-{
- "date": "2009-01",
+ "date": "01",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2009-02",
+ "date": "02",
 "number": " 44",
 "": "ice" 
 },
 {
- "date": "2009-03",
+ "date": "03",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2009-04",
+ "date": "04",
 "number": " 35",
 "": "ice" 
 },
 {
- "date": "2009-05",
+ "date": "05",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2009-06",
+ "date": "06",
 "number": " 43",
 "": "ice" 
 },
 {
- "date": "2009-07",
+ "date": "07",
 "number": " 46",
 "": "ice" 
 },
 {
- "date": "2009-08",
+ "date": "08",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2009-09",
+ "date": "09",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2009-10",
+ "date": "10",
 "number": " 38",
 "": "ice" 
 },
 {
- "date": "2009-11",
+ "date": "11",
 "number": " 42",
 "": "ice" 
 },
 {
- "date": "2009-12",
+ "date": "12",
 "number": " 53",
 "": "ice" 
 } ],
 [ {
- "date": "2008-12",
-"number": " 66",
-"": "snow" 
-},
-{
- "date": "2009-01",
+ "date": "01",
 "number": " 43",
 "": "snow" 
 },
 {
- "date": "2009-02",
+ "date": "02",
 "number": " 28",
 "": "snow" 
 },
 {
- "date": "2009-03",
+ "date": "03",
 "number": " 23",
 "": "snow" 
 },
 {
- "date": "2009-04",
+ "date": "04",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2009-05",
+ "date": "05",
 "number": " 12",
 "": "snow" 
 },
 {
- "date": "2009-06",
+ "date": "06",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2009-07",
+ "date": "07",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2009-08",
+ "date": "08",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2009-09",
+ "date": "09",
 "number": " 30",
 "": "snow" 
 },
 {
- "date": "2009-10",
+ "date": "10",
 "number": " 31",
 "": "snow" 
 },
 {
- "date": "2009-11",
+ "date": "11",
 "number": " 33",
 "": "snow" 
 },
 {
- "date": "2009-12",
+ "date": "12",
 "number": " 72",
 "": "snow" 
 } ],
 [ {
- "date": "2009-12",
-"number": " 42",
-"": "beach" 
-},
-{
- "date": "2010-01",
+ "date": "01",
 "number": " 52",
 "": "beach" 
 },
 {
- "date": "2010-02",
+ "date": "02",
 "number": " 54",
 "": "beach" 
 },
 {
- "date": "2010-03",
+ "date": "03",
 "number": " 57",
 "": "beach" 
 },
 {
- "date": "2010-04",
+ "date": "04",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2010-05",
+ "date": "05",
 "number": " 63",
 "": "beach" 
 },
 {
- "date": "2010-06",
+ "date": "06",
 "number": " 75",
 "": "beach" 
 },
 {
- "date": "2010-07",
+ "date": "07",
 "number": " 76",
 "": "beach" 
 },
 {
- "date": "2010-08",
+ "date": "08",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2010-09",
+ "date": "09",
 "number": " 47",
 "": "beach" 
 },
 {
- "date": "2010-10",
+ "date": "10",
 "number": " 42",
 "": "beach" 
 },
 {
- "date": "2010-11",
+ "date": "11",
 "number": " 39",
 "": "beach" 
 },
 {
- "date": "2010-12",
+ "date": "12",
 "number": " 41",
 "": "beach" 
 } ],
 [ {
- "date": "2009-12",
-"number": " 53",
-"": "ice" 
-},
-{
- "date": "2010-01",
+ "date": "01",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2010-02",
+ "date": "02",
 "number": " 56",
 "": "ice" 
 },
 {
- "date": "2010-03",
+ "date": "03",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2010-04",
+ "date": "04",
 "number": " 36",
 "": "ice" 
 },
 {
- "date": "2010-05",
+ "date": "05",
 "number": " 39",
 "": "ice" 
 },
 {
- "date": "2010-06",
+ "date": "06",
 "number": " 40",
 "": "ice" 
 },
 {
- "date": "2010-07",
+ "date": "07",
 "number": " 42",
 "": "ice" 
 },
 {
- "date": "2010-08",
+ "date": "08",
 "number": " 40",
 "": "ice" 
 },
 {
- "date": "2010-09",
+ "date": "09",
 "number": " 35",
 "": "ice" 
 },
 {
- "date": "2010-10",
+ "date": "10",
 "number": " 37",
 "": "ice" 
 },
 {
- "date": "2010-11",
+ "date": "11",
 "number": " 40",
 "": "ice" 
 },
 {
- "date": "2010-12",
+ "date": "12",
 "number": " 52",
 "": "ice" 
 } ],
 [ {
- "date": "2009-12",
-"number": " 72",
-"": "snow" 
-},
-{
- "date": "2010-01",
+ "date": "01",
 "number": " 51",
 "": "snow" 
 },
 {
- "date": "2010-02",
+ "date": "02",
 "number": " 72",
 "": "snow" 
 },
 {
- "date": "2010-03",
+ "date": "03",
 "number": " 25",
 "": "snow" 
 },
 {
- "date": "2010-04",
+ "date": "04",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2010-05",
+ "date": "05",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2010-06",
+ "date": "06",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2010-07",
+ "date": "07",
 "number": " 14",
 "": "snow" 
 },
 {
- "date": "2010-08",
+ "date": "08",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2010-09",
+ "date": "09",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2010-10",
+ "date": "10",
 "number": " 21",
 "": "snow" 
 },
 {
- "date": "2010-11",
+ "date": "11",
 "number": " 33",
 "": "snow" 
 },
 {
- "date": "2010-12",
+ "date": "12",
 "number": " 69",
 "": "snow" 
 } ],
 [ {
- "date": "2010-12",
-"number": " 41",
-"": "beach" 
-},
-{
- "date": "2011-01",
+ "date": "01",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2011-02",
+ "date": "02",
 "number": " 60",
 "": "beach" 
 },
 {
- "date": "2011-03",
+ "date": "03",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2011-04",
+ "date": "04",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2011-05",
+ "date": "05",
 "number": " 70",
 "": "beach" 
 },
 {
- "date": "2011-06",
+ "date": "06",
 "number": " 83",
 "": "beach" 
 },
 {
- "date": "2011-07",
+ "date": "07",
 "number": " 91",
 "": "beach" 
 },
 {
- "date": "2011-08",
+ "date": "08",
 "number": " 73",
 "": "beach" 
 },
 {
- "date": "2011-09",
+ "date": "09",
 "number": " 56",
 "": "beach" 
 },
 {
- "date": "2011-10",
+ "date": "10",
 "number": " 49",
 "": "beach" 
 },
 {
- "date": "2011-11",
+ "date": "11",
 "number": " 45",
 "": "beach" 
 },
 {
- "date": "2011-12",
+ "date": "12",
 "number": " 47",
 "": "beach" 
 } ],
 [ {
- "date": "2010-12",
-"number": " 52",
-"": "ice" 
-},
-{
- "date": "2011-01",
+ "date": "01",
 "number": " 59",
 "": "ice" 
 },
 {
- "date": "2011-02",
+ "date": "02",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2011-03",
+ "date": "03",
 "number": " 43",
 "": "ice" 
 },
 {
- "date": "2011-04",
+ "date": "04",
 "number": " 48",
 "": "ice" 
 },
 {
- "date": "2011-05",
+ "date": "05",
 "number": " 44",
 "": "ice" 
 },
 {
- "date": "2011-06",
+ "date": "06",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2011-07",
+ "date": "07",
 "number": " 53",
 "": "ice" 
 },
 {
- "date": "2011-08",
+ "date": "08",
 "number": " 46",
 "": "ice" 
 },
 {
- "date": "2011-09",
+ "date": "09",
 "number": " 44",
 "": "ice" 
 },
 {
- "date": "2011-10",
+ "date": "10",
 "number": " 45",
 "": "ice" 
 },
 {
- "date": "2011-11",
+ "date": "11",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2011-12",
+ "date": "12",
 "number": " 63",
 "": "ice" 
 } ],
 [ {
- "date": "2010-12",
-"number": " 69",
-"": "snow" 
-},
-{
- "date": "2011-01",
+ "date": "01",
 "number": " 71",
 "": "snow" 
 },
 {
- "date": "2011-02",
+ "date": "02",
 "number": " 57",
 "": "snow" 
 },
 {
- "date": "2011-03",
+ "date": "03",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2011-04",
+ "date": "04",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2011-05",
+ "date": "05",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2011-06",
+ "date": "06",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2011-07",
+ "date": "07",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2011-08",
+ "date": "08",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2011-09",
+ "date": "09",
 "number": " 19",
 "": "snow" 
 },
 {
- "date": "2011-10",
+ "date": "10",
 "number": " 29",
 "": "snow" 
 },
 {
- "date": "2011-11",
+ "date": "11",
 "number": " 39",
 "": "snow" 
 },
 {
- "date": "2011-12",
+ "date": "12",
 "number": "100",
 "": "snow" 
 } ],
 [ {
- "date": "2011-12",
-"number": " 47",
-"": "beach" 
-},
-{
- "date": "2012-01",
+ "date": "01",
 "number": " 56",
 "": "beach" 
 },
 {
- "date": "2012-02",
+ "date": "02",
 "number": " 60",
 "": "beach" 
 },
 {
- "date": "2012-03",
+ "date": "03",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2012-04",
+ "date": "04",
 "number": " 67",
 "": "beach" 
 },
 {
- "date": "2012-05",
+ "date": "05",
 "number": " 72",
 "": "beach" 
 },
 {
- "date": "2012-06",
+ "date": "06",
 "number": " 83",
 "": "beach" 
 },
 {
- "date": "2012-07",
+ "date": "07",
 "number": " 89",
 "": "beach" 
 },
 {
- "date": "2012-08",
+ "date": "08",
 "number": " 77",
 "": "beach" 
 },
 {
- "date": "2012-09",
+ "date": "09",
 "number": " 54",
 "": "beach" 
 },
 {
- "date": "2012-10",
+ "date": "10",
 "number": " 47",
 "": "beach" 
 },
 {
- "date": "2012-11",
+ "date": "11",
 "number": " 45",
 "": "beach" 
 },
 {
- "date": "2012-12",
+ "date": "12",
 "number": " 45",
 "": "beach" 
 } ],
 [ {
- "date": "2011-12",
-"number": " 63",
-"": "ice" 
-},
-{
- "date": "2012-01",
+ "date": "01",
 "number": " 58",
 "": "ice" 
 },
 {
- "date": "2012-02",
+ "date": "02",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2012-03",
+ "date": "03",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2012-04",
+ "date": "04",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2012-05",
+ "date": "05",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2012-06",
+ "date": "06",
 "number": " 57",
 "": "ice" 
 },
 {
- "date": "2012-07",
+ "date": "07",
 "number": " 61",
 "": "ice" 
 },
 {
- "date": "2012-08",
+ "date": "08",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2012-09",
+ "date": "09",
 "number": " 45",
 "": "ice" 
 },
 {
- "date": "2012-10",
+ "date": "10",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2012-11",
+ "date": "11",
 "number": " 47",
 "": "ice" 
 },
 {
- "date": "2012-12",
+ "date": "12",
 "number": " 61",
 "": "ice" 
 } ],
 [ {
- "date": "2011-12",
-"number": "100",
-"": "snow" 
-},
-{
- "date": "2012-01",
+ "date": "01",
 "number": " 51",
 "": "snow" 
 },
 {
- "date": "2012-02",
+ "date": "02",
 "number": " 35",
 "": "snow" 
 },
 {
- "date": "2012-03",
+ "date": "03",
 "number": " 26",
 "": "snow" 
 },
 {
- "date": "2012-04",
+ "date": "04",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2012-05",
+ "date": "05",
 "number": " 21",
 "": "snow" 
 },
 {
- "date": "2012-06",
+ "date": "06",
 "number": " 26",
 "": "snow" 
 },
 {
- "date": "2012-07",
+ "date": "07",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2012-08",
+ "date": "08",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2012-09",
+ "date": "09",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2012-10",
+ "date": "10",
 "number": " 26",
 "": "snow" 
 },
 {
- "date": "2012-11",
+ "date": "11",
 "number": " 33",
 "": "snow" 
 },
 {
- "date": "2012-12",
+ "date": "12",
 "number": " 57",
 "": "snow" 
 } ],
 [ {
- "date": "2012-12",
-"number": " 45",
-"": "beach" 
-},
-{
- "date": "2013-01",
+ "date": "01",
 "number": " 53",
 "": "beach" 
 },
 {
- "date": "2013-02",
+ "date": "02",
 "number": " 56",
 "": "beach" 
 },
 {
- "date": "2013-03",
+ "date": "03",
 "number": " 63",
 "": "beach" 
 },
 {
- "date": "2013-04",
+ "date": "04",
 "number": " 62",
 "": "beach" 
 },
 {
- "date": "2013-05",
+ "date": "05",
 "number": " 69",
 "": "beach" 
 },
 {
- "date": "2013-06",
+ "date": "06",
 "number": " 82",
 "": "beach" 
 },
 {
- "date": "2013-07",
+ "date": "07",
 "number": " 90",
 "": "beach" 
 },
 {
- "date": "2013-08",
+ "date": "08",
 "number": " 76",
 "": "beach" 
 },
 {
- "date": "2013-09",
+ "date": "09",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2013-10",
+ "date": "10",
 "number": " 47",
 "": "beach" 
 },
 {
- "date": "2013-11",
+ "date": "11",
 "number": " 45",
 "": "beach" 
 },
 {
- "date": "2013-12",
+ "date": "12",
 "number": " 47",
 "": "beach" 
 } ],
 [ {
- "date": "2012-12",
-"number": " 61",
-"": "ice" 
-},
-{
- "date": "2013-01",
+ "date": "01",
 "number": " 59",
 "": "ice" 
 },
 {
- "date": "2013-02",
+ "date": "02",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2013-03",
+ "date": "03",
 "number": " 46",
 "": "ice" 
 },
 {
- "date": "2013-04",
+ "date": "04",
 "number": " 43",
 "": "ice" 
 },
 {
- "date": "2013-05",
+ "date": "05",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2013-06",
+ "date": "06",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2013-07",
+ "date": "07",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2013-08",
+ "date": "08",
 "number": " 46",
 "": "ice" 
 },
 {
- "date": "2013-09",
+ "date": "09",
 "number": " 43",
 "": "ice" 
 },
 {
- "date": "2013-10",
+ "date": "10",
 "number": " 41",
 "": "ice" 
 },
 {
- "date": "2013-11",
+ "date": "11",
 "number": " 48",
 "": "ice" 
 },
 {
- "date": "2013-12",
+ "date": "12",
 "number": " 64",
 "": "ice" 
 } ],
 [ {
- "date": "2012-12",
-"number": " 57",
-"": "snow" 
-},
-{
- "date": "2013-01",
+ "date": "01",
 "number": " 43",
 "": "snow" 
 },
 {
- "date": "2013-02",
+ "date": "02",
 "number": " 53",
 "": "snow" 
 },
 {
- "date": "2013-03",
+ "date": "03",
 "number": " 33",
 "": "snow" 
 },
 {
- "date": "2013-04",
+ "date": "04",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2013-05",
+ "date": "05",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2013-06",
+ "date": "06",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2013-07",
+ "date": "07",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2013-08",
+ "date": "08",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2013-09",
+ "date": "09",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2013-10",
+ "date": "10",
 "number": " 23",
 "": "snow" 
 },
 {
- "date": "2013-11",
+ "date": "11",
 "number": " 34",
 "": "snow" 
 },
 {
- "date": "2013-12",
+ "date": "12",
 "number": " 69",
 "": "snow" 
 } ],
 [ {
- "date": "2013-12",
-"number": " 47",
-"": "beach" 
-},
-{
- "date": "2014-01",
+ "date": "01",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2014-02",
+ "date": "02",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2014-03",
+ "date": "03",
 "number": " 66",
 "": "beach" 
 },
 {
- "date": "2014-04",
+ "date": "04",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2014-05",
+ "date": "05",
 "number": " 73",
 "": "beach" 
 },
 {
- "date": "2014-06",
+ "date": "06",
 "number": " 83",
 "": "beach" 
 },
 {
- "date": "2014-07",
+ "date": "07",
 "number": " 90",
 "": "beach" 
 },
 {
- "date": "2014-08",
+ "date": "08",
 "number": " 74",
 "": "beach" 
 },
 {
- "date": "2014-09",
+ "date": "09",
 "number": " 53",
 "": "beach" 
 },
 {
- "date": "2014-10",
+ "date": "10",
 "number": " 47",
 "": "beach" 
 },
 {
- "date": "2014-11",
+ "date": "11",
 "number": " 43",
 "": "beach" 
 },
 {
- "date": "2014-12",
+ "date": "12",
 "number": " 46",
 "": "beach" 
 } ],
 [ {
- "date": "2013-12",
-"number": " 64",
-"": "ice" 
-},
-{
- "date": "2014-01",
+ "date": "01",
 "number": " 63",
 "": "ice" 
 },
 {
- "date": "2014-02",
+ "date": "02",
 "number": " 79",
 "": "ice" 
 },
 {
- "date": "2014-03",
+ "date": "03",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2014-04",
+ "date": "04",
 "number": " 47",
 "": "ice" 
 },
 {
- "date": "2014-05",
+ "date": "05",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2014-06",
+ "date": "06",
 "number": " 54",
 "": "ice" 
 },
 {
- "date": "2014-07",
+ "date": "07",
 "number": " 55",
 "": "ice" 
 },
 {
- "date": "2014-08",
+ "date": "08",
 "number": "100",
 "": "ice" 
 },
 {
- "date": "2014-09",
+ "date": "09",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2014-10",
+ "date": "10",
 "number": " 45",
 "": "ice" 
 },
 {
- "date": "2014-11",
+ "date": "11",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2014-12",
+ "date": "12",
 "number": " 59",
 "": "ice" 
 } ],
 [ {
- "date": "2013-12",
-"number": " 69",
-"": "snow" 
-},
-{
- "date": "2014-01",
+ "date": "01",
 "number": " 75",
 "": "snow" 
 },
 {
- "date": "2014-02",
+ "date": "02",
 "number": " 77",
 "": "snow" 
 },
 {
- "date": "2014-03",
+ "date": "03",
 "number": " 33",
 "": "snow" 
 },
 {
- "date": "2014-04",
+ "date": "04",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2014-05",
+ "date": "05",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2014-06",
+ "date": "06",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2014-07",
+ "date": "07",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2014-08",
+ "date": "08",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2014-09",
+ "date": "09",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2014-10",
+ "date": "10",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2014-11",
+ "date": "11",
 "number": " 59",
 "": "snow" 
 },
 {
- "date": "2014-12",
+ "date": "12",
 "number": " 51",
 "": "snow" 
 } ],
 [ {
- "date": "2014-12",
-"number": " 46",
-"": "beach" 
-},
-{
- "date": "2015-01",
+ "date": "01",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2015-02",
+ "date": "02",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2015-03",
+ "date": "03",
 "number": " 66",
 "": "beach" 
 },
 {
- "date": "2015-04",
+ "date": "04",
 "number": " 65",
 "": "beach" 
 },
 {
- "date": "2015-05",
+ "date": "05",
 "number": " 71",
 "": "beach" 
 },
 {
- "date": "2015-06",
+ "date": "06",
 "number": " 85",
 "": "beach" 
 },
 {
- "date": "2015-07",
+ "date": "07",
 "number": " 92",
 "": "beach" 
 },
 {
- "date": "2015-08",
+ "date": "08",
 "number": " 77",
 "": "beach" 
 },
 {
- "date": "2015-09",
+ "date": "09",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2015-10",
+ "date": "10",
 "number": " 48",
 "": "beach" 
 },
 {
- "date": "2015-11",
+ "date": "11",
 "number": " 44",
 "": "beach" 
 },
 {
- "date": "2015-12",
+ "date": "12",
 "number": " 50",
 "": "beach" 
 } ],
 [ {
- "date": "2014-12",
-"number": " 59",
-"": "ice" 
-},
-{
- "date": "2015-01",
+ "date": "01",
 "number": " 60",
 "": "ice" 
 },
 {
- "date": "2015-02",
+ "date": "02",
 "number": " 57",
 "": "ice" 
 },
 {
- "date": "2015-03",
+ "date": "03",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2015-04",
+ "date": "04",
 "number": " 48",
 "": "ice" 
 },
 {
- "date": "2015-05",
+ "date": "05",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2015-06",
+ "date": "06",
 "number": " 54",
 "": "ice" 
 },
 {
- "date": "2015-07",
+ "date": "07",
 "number": " 59",
 "": "ice" 
 },
 {
- "date": "2015-08",
+ "date": "08",
 "number": " 61",
 "": "ice" 
 },
 {
- "date": "2015-09",
+ "date": "09",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2015-10",
+ "date": "10",
 "number": " 45",
 "": "ice" 
 },
 {
- "date": "2015-11",
+ "date": "11",
 "number": " 50",
 "": "ice" 
 },
 {
- "date": "2015-12",
+ "date": "12",
 "number": " 61",
 "": "ice" 
 } ],
 [ {
- "date": "2014-12",
-"number": " 51",
-"": "snow" 
-},
-{
- "date": "2015-01",
+ "date": "01",
 "number": " 61",
 "": "snow" 
 },
 {
- "date": "2015-02",
+ "date": "02",
 "number": " 74",
 "": "snow" 
 },
 {
- "date": "2015-03",
+ "date": "03",
 "number": " 36",
 "": "snow" 
 },
 {
- "date": "2015-04",
+ "date": "04",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2015-05",
+ "date": "05",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2015-06",
+ "date": "06",
 "number": " 23",
 "": "snow" 
 },
 {
- "date": "2015-07",
+ "date": "07",
 "number": " 17",
 "": "snow" 
 },
 {
- "date": "2015-08",
+ "date": "08",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2015-09",
+ "date": "09",
 "number": " 20",
 "": "snow" 
 },
 {
- "date": "2015-10",
+ "date": "10",
 "number": " 25",
 "": "snow" 
 },
 {
- "date": "2015-11",
+ "date": "11",
 "number": " 41",
 "": "snow" 
 },
 {
- "date": "2015-12",
+ "date": "12",
 "number": " 57",
 "": "snow" 
 } ],
 [ {
- "date": "2015-12",
-"number": " 50",
-"": "beach" 
-},
-{
- "date": "2016-01",
+ "date": "01",
 "number": " 58",
 "": "beach" 
 },
 {
- "date": "2016-02",
+ "date": "02",
 "number": " 64",
 "": "beach" 
 },
 {
- "date": "2016-03",
+ "date": "03",
 "number": " 70",
 "": "beach" 
 },
 {
- "date": "2016-04",
+ "date": "04",
 "number": " 69",
 "": "beach" 
 },
 {
- "date": "2016-05",
+ "date": "05",
 "number": " 77",
 "": "beach" 
 },
 {
- "date": "2016-06",
+ "date": "06",
 "number": " 91",
 "": "beach" 
 },
 {
- "date": "2016-07",
+ "date": "07",
 "number": "100",
 "": "beach" 
 },
 {
- "date": "2016-08",
+ "date": "08",
 "number": " 83",
 "": "beach" 
 },
 {
- "date": "2016-09",
+ "date": "09",
 "number": " 59",
 "": "beach" 
 },
 {
- "date": "2016-10",
+ "date": "10",
 "number": " 55",
 "": "beach" 
 },
 {
- "date": "2016-11",
+ "date": "11",
 "number": " 46",
 "": "beach" 
 },
 {
- "date": "2016-12",
+ "date": "12",
 "number": " 49",
 "": "beach" 
 } ],
 [ {
- "date": "2015-12",
-"number": " 61",
-"": "ice" 
-},
-{
- "date": "2016-01",
+ "date": "01",
 "number": " 67",
 "": "ice" 
 },
 {
- "date": "2016-02",
+ "date": "02",
 "number": " 55",
 "": "ice" 
 },
 {
- "date": "2016-03",
+ "date": "03",
 "number": " 49",
 "": "ice" 
 },
 {
- "date": "2016-04",
+ "date": "04",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2016-05",
+ "date": "05",
 "number": " 55",
 "": "ice" 
 },
 {
- "date": "2016-06",
+ "date": "06",
 "number": " 59",
 "": "ice" 
 },
 {
- "date": "2016-07",
+ "date": "07",
 "number": " 71",
 "": "ice" 
 },
 {
- "date": "2016-08",
+ "date": "08",
 "number": " 56",
 "": "ice" 
 },
 {
- "date": "2016-09",
+ "date": "09",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2016-10",
+ "date": "10",
 "number": " 52",
 "": "ice" 
 },
 {
- "date": "2016-11",
+ "date": "11",
 "number": " 60",
 "": "ice" 
 },
 {
- "date": "2016-12",
+ "date": "12",
 "number": " 88",
 "": "ice" 
 } ],
 [ {
- "date": "2015-12",
-"number": " 57",
-"": "snow" 
-},
-{
- "date": "2016-01",
+ "date": "01",
 "number": " 89",
 "": "snow" 
 },
 {
- "date": "2016-02",
+ "date": "02",
 "number": " 46",
 "": "snow" 
 },
 {
- "date": "2016-03",
+ "date": "03",
 "number": " 26",
 "": "snow" 
 },
 {
- "date": "2016-04",
+ "date": "04",
 "number": " 22",
 "": "snow" 
 },
 {
- "date": "2016-05",
+ "date": "05",
 "number": " 21",
 "": "snow" 
 },
 {
- "date": "2016-06",
+ "date": "06",
 "number": " 19",
 "": "snow" 
 },
 {
- "date": "2016-07",
+ "date": "07",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2016-08",
+ "date": "08",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2016-09",
+ "date": "09",
 "number": " 19",
 "": "snow" 
 },
 {
- "date": "2016-10",
+ "date": "10",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2016-11",
+ "date": "11",
 "number": " 37",
 "": "snow" 
 },
 {
- "date": "2016-12",
+ "date": "12",
 "number": " 74",
 "": "snow" 
 } ],
 [ {
- "date": "2016-12",
-"number": " 49",
-"": "beach" 
-},
-{
- "date": "2017-01",
+ "date": "01",
 "number": " 57",
 "": "beach" 
 },
 {
- "date": "2017-02",
+ "date": "02",
 "number": " 62",
 "": "beach" 
 },
 {
- "date": "2017-03",
+ "date": "03",
 "number": " 68",
 "": "beach" 
 },
 {
- "date": "2017-04",
+ "date": "04",
 "number": " 72",
 "": "beach" 
 },
 {
- "date": "2017-05",
+ "date": "05",
 "number": " 73",
 "": "beach" 
 },
 {
- "date": "2017-06",
+ "date": "06",
 "number": " 89",
 "": "beach" 
 },
 {
- "date": "2017-07",
+ "date": "07",
 "number": " 98",
 "": "beach" 
 },
 {
- "date": "2017-08",
+ "date": "08",
 "number": " 77",
 "": "beach" 
 },
 {
- "date": "2017-09",
+ "date": "09",
 "number": " 61",
 "": "beach" 
 },
 {
- "date": "2017-10",
+ "date": "10",
 "number": " 49",
 "": "beach" 
 },
 {
- "date": "2017-11",
+ "date": "11",
 "number": " 46",
 "": "beach" 
 },
 {
- "date": "2017-12",
+ "date": "12",
 "number": " 48",
 "": "beach" 
 } ],
 [ {
- "date": "2016-12",
-"number": " 88",
-"": "ice" 
-},
-{
- "date": "2017-01",
+ "date": "01",
 "number": " 69",
 "": "ice" 
 },
 {
- "date": "2017-02",
+ "date": "02",
 "number": " 62",
 "": "ice" 
 },
 {
- "date": "2017-03",
+ "date": "03",
 "number": " 56",
 "": "ice" 
 },
 {
- "date": "2017-04",
+ "date": "04",
 "number": " 58",
 "": "ice" 
 },
 {
- "date": "2017-05",
+ "date": "05",
 "number": " 61",
 "": "ice" 
 },
 {
- "date": "2017-06",
+ "date": "06",
 "number": " 70",
 "": "ice" 
 },
 {
- "date": "2017-07",
+ "date": "07",
 "number": " 77",
 "": "ice" 
 },
 {
- "date": "2017-08",
+ "date": "08",
 "number": " 63",
 "": "ice" 
 },
 {
- "date": "2017-09",
+ "date": "09",
 "number": " 53",
 "": "ice" 
 },
 {
- "date": "2017-10",
+ "date": "10",
 "number": " 51",
 "": "ice" 
 },
 {
- "date": "2017-11",
+ "date": "11",
 "number": " 56",
 "": "ice" 
 },
 {
- "date": "2017-12",
+ "date": "12",
 "number": " 71",
 "": "ice" 
 } ],
 [ {
- "date": "2016-12",
-"number": " 74",
-"": "snow" 
-},
-{
- "date": "2017-01",
+ "date": "01",
 "number": " 63",
 "": "snow" 
 },
 {
- "date": "2017-02",
+ "date": "02",
 "number": " 44",
 "": "snow" 
 },
 {
- "date": "2017-03",
+ "date": "03",
 "number": " 40",
 "": "snow" 
 },
 {
- "date": "2017-04",
+ "date": "04",
 "number": " 18",
 "": "snow" 
 },
 {
- "date": "2017-05",
+ "date": "05",
 "number": " 16",
 "": "snow" 
 },
 {
- "date": "2017-06",
+ "date": "06",
 "number": " 15",
 "": "snow" 
 },
 {
- "date": "2017-07",
+ "date": "07",
 "number": " 19",
 "": "snow" 
 },
 {
- "date": "2017-08",
+ "date": "08",
 "number": " 25",
 "": "snow" 
 },
 {
- "date": "2017-09",
+ "date": "09",
 "number": " 21",
 "": "snow" 
 },
 {
- "date": "2017-10",
+ "date": "10",
 "number": " 24",
 "": "snow" 
 },
 {
- "date": "2017-11",
+ "date": "11",
 "number": " 36",
 "": "snow" 
 },
 {
- "date": "2017-12",
+ "date": "12",
 "number": " 79",
 "": "snow" 
 } ] 
